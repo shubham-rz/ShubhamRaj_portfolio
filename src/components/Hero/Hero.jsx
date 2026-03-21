@@ -3,8 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { fadeInLeft, fadeInUp, floatingAnimation, glowPulse, staggerContainer } from '../../animations/animationVariants';
 import { socialLinks } from '../../data/projectsData';
 import styles from './Hero.module.css';
-
-const profileImg = '/profile.png';
+import profileImg from '../../../public/profile.png';
 
 export default function Hero() {
   const [showScroll, setShowScroll] = useState(true);
@@ -42,7 +41,7 @@ export default function Hero() {
             <motion.div className={styles.imageRing} animate={glowPulse} />
             <img
               src={profileImg}
-              alt="Tarun Sharma"
+              alt="Shubham_image"
               className={styles.profileImage}
             />
           </motion.div>
