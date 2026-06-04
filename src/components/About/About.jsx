@@ -41,7 +41,7 @@ export default function About() {
             animate={inView ? 'visible' : 'hidden'}
           >
             <p className={styles.paragraph}>
-              With <span className={styles.highlight}>3.5+ years of experience</span> in frontend
+              With <span className={styles.highlight}>4+ years of experience</span> in frontend
               engineering, I specialize in building{' '}
               <span className={styles.highlight}>scalable React applications</span>,
               reusable UI component systems, and performance-optimized interfaces.
@@ -56,7 +56,7 @@ export default function About() {
 
             <div className={styles.stats}>
               <motion.div className={styles.statCard} whileHover={{ scale: 1.05 }}>
-                <div className={styles.statNumber}>3.5+</div>
+                <div className={styles.statNumber}>4+</div>
                 <div className={styles.statLabel}>Years Exp</div>
               </motion.div>
               <motion.div className={styles.statCard} whileHover={{ scale: 1.05 }}>

@@ -72,7 +72,7 @@ export const projects = [
 
 export const timelineData = [
     {
-      year: '2025 - Present',
+      year: 'Mar 2025 - Present',
       role: 'Software Engineer',
       company: 'Quarks Technosoft',
       points: [
@@ -94,7 +94,27 @@ export const timelineData = [
       ]
     },
     {
-      year: '2022 — 2025',
+      year: 'Sep 2024 – Mar 2025',
+      role: 'Frontend Developer',
+      company: 'EduDiagno (Freelance) ',
+      points: [
+        "Developed responsive and mobile-first web interfaces using React.js, JavaScript (ES6+), HTML5, CSS3, and Tailwind CSS",
+  
+        "Built reusable and scalable UI components to improve frontend maintainability and development efficiency.",
+  
+        "Translated Figma and UI/UX designs into pixel-perfect, production-ready frontend interfaces with strong focus on performance and accessibility",
+  
+        "Architected maintainable frontend solutions using React Hooks, Context API, and Redux",
+  
+        "Optimized website responsiveness and enhanced user experience across mobile, tablet, and desktop platforms.",
+  
+        "Collaborated with stakeholders to improve frontend architecture, UI consistency, and overall application usability for an AI-powered recruitment platform.",
+  
+        "Enhanced website usability and frontend responsiveness by implementing modern UI/UX practices and optimized layout structures, resulting in improved user engagement and satisfaction.",
+      ]
+    },
+    {
+      year: 'Jan 2022 – Aug 2024',
       role: 'Frontend Developer',
       company: 'Publicis Sapient',
       points: [
@@ -120,8 +140,8 @@ export const skills = {
     { name: 'React', level: 95 },
     { name: 'JavaScript ES6+', level: 92 },
     { name: 'HTML5 & CSS3', level: 90 },
-    { name: 'TypeScript', level: 78 },
-    { name: 'Next.js', level: 72 },
+    { name: 'TypeScript', level: 80 },
+    { name: 'Next.js', level: 75 },
     { name: 'Twig', level: 70 },
   ],
   'Performance & Architecture': [

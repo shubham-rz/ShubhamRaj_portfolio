@@ -68,7 +68,7 @@ export default function Hero() {
           <motion.p className={styles.statement} variants={fadeInUp}>
             I design <span className={styles.statementHighlight}>scalable UI systems</span> and build
             <span className={styles.statementHighlight}>high-performance frontend architectures </span>
-            with <span className={styles.statementHighlight}>3.5+ years</span> of expertise in
+            with <span className={styles.statementHighlight}>4+ years</span> of expertise in
             <span className={styles.statementHighlight}> React & Next.js </span>, creating
             <span className={styles.statementHighlight}> seamless, performant, and user-first</span> web experiences.
           </motion.p>
