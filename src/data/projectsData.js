@@ -157,13 +157,13 @@ export const skills = {
     { name: 'CSS Modules / Bootstrap', level: 90 },
     { name: 'CSS Modules / Tailwind', level: 88 },
     { name: 'Framer Motion / GSAP', level: 75 },
-    { name: 'Testing (Jest / RTL)', level: 70 },
+    { name: 'Testing (Jest / RTL)', level: 85 },
   ],
 };
 
 export const socialLinks = {
   github: 'https://github.com/shubham-rz',
   linkedin: 'https://www.linkedin.com/in/shubhamrz/',
-  email: 'shubhamrai4u@gmail.com',
-  resume: 'https://drive.google.com/file/d/1AISfVqtLwxS7JiCdhk940z4zfDEEdhpQ/view?usp=sharing',
+  email: 'shubhamrajdevx@gmail.com',
+  resume: 'https://drive.google.com/file/d/13zIUqyniO7QTSZ2M4vx7y28rbpEe27_r/view'
 };

@@ -83,7 +83,7 @@ export default function Hero() {
             </button>
             <a
               href="/resume.pdf"
-              download="Tarun_Sharma_Resume.pdf"
+              download="ShubhamRaj_Resume.pdf"
               className={styles.btnSecondary}
               onClick={(e) => {
                 e.preventDefault();
